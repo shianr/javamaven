@@ -1,5 +1,5 @@
 1. POM文件中修改：
-    1. 实际的`groupId`和`artifactId`
+    1. 实际的`groupId`和`artifactId`111
     2. 实际的工程描述`description`
     3. 实际的工程版本`version`
     4. 实际的工程依赖，`dependencyManagement`和`dependencies`部分
