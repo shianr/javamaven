@@ -1,4 +1,3 @@
-sabfla
 1. POM文件中修改：
     1. 实际的`groupId`和`artifactId`
     2. 实际的工程描述`description`
